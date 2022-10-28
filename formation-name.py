@@ -29,5 +29,5 @@ import pandas as pd
 formation = pd.DataFrame(formation_list)
 
 # print(formation.head(20))
-formation.to_csv('formation-list-4.csv')
+formation.to_csv('formation-list-1.csv')
 # Demonic Tempest Serpent,Divine Shadow Phoenix
