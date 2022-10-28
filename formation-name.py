@@ -19,7 +19,7 @@ def get_formation_names(n):
 
     return formation_names
 
-formation_list= get_formation_names(1000)
+formation_list= get_formation_names(1000) #1000 is to generate 1000 formation names. change it accordingly
 
 # for i in range(21):
 #     print(rd.choice(attributes) + " " +rd.choice(element) + " " +rd.choice(beasts)+" " +rd.choice(types)+" Formation")
