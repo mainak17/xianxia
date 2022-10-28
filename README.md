@@ -1,2 +1,2 @@
 # xianxia
-some random generator stuff
+some random xianxia related term generator 
